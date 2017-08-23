@@ -7,7 +7,7 @@
  E-mail: jvitor.smartins@gmail.com
 
  
- Meu nomé é **João Vitor**, sou técnico em informática e analista de sistemas como formação. Busco estar sempre me atualizando com novas tecnologias e técnicas de desenvolvimento de sistemas. Aficionada por café e livros , assisto séries como hobby.
+ Meu nomé é **João Vitor**, sou técnico em informática e analista de sistemas como formação. Busco estar sempre me atualizando com novas tecnologias e técnicas de desenvolvimento de sistemas. Aficionado por café e livros , assisto séries como hobby.
 
  ## Redes Sociais
  *  [Facebook](https://www.facebook.com/jmartins13)
